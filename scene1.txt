@@ -4,7 +4,7 @@ Thunder and Lightning. Enter three Witches.
 FIRST WITCH 
 When shall we three meet again?
 In thunder, lightning, or in rain?
-SECOND WITCH 
+SECOND XWITCH 
 When the hurly-burly’s done,
 When the battle’s lost and won.
 THIRD WITCH 
@@ -18,6 +18,5 @@ FIRST WITCH I come, Graymalkin.
 SECOND WITCH Paddock calls.
 THIRD WITCH Anon.
 ALL 
-Fair is foul, and foul is fair;
-Hover through the fog and filthy air.
+The older you get, the better you get, unless you’re a banana.
 They exit.
