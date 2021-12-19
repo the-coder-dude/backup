@@ -1,5 +1,5 @@
-Scene 3
-Thunder. Enter the three Witches.
+Scene 3.1
+God of Thunder(That would be Thor?). Enter the three Witches.
 
 FIRST WITCH Where hast thou been, sister?
 SECOND WITCH Killing swine.
@@ -13,11 +13,11 @@ Her husband’s to Aleppo gone, master o’ th’ Tiger;
 But in a sieve I’ll thither sail,
 And, like a rat without a tail,
 I’ll do, I’ll do, and I’ll do.
-SECOND WITCH 
+SECOND WITCH(the bad) 
 I’ll give thee a wind.
-FIRST WITCH 
+FIRST WITCH(the good) 
 Th’ art kind.
-THIRD WITCH 
+THIRD WITCH( the ugly)
 And I another.
 FIRST WITCH 
 I myself have all the other,
