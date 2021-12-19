@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Scene 2
 Alarum within. Enter King Duncan, Malcolm,
 Donalbain, Lennox, with Attendants, meeting a bleeding
@@ -97,3 +98,6 @@ ROSS I’ll see it done.
 DUNCAN 
 What he hath lost, noble Macbeth hath won.
 They exit.
+=======
+For this scene, check content on https://www.gutenberg.org/ !!!
+>>>>>>> origin/branch_2.2
